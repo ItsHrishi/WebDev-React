@@ -1,0 +1,43 @@
+.box{
+    border: 1px solid black;
+    background-color: aquamarine;
+    color:black;
+    height : 20px;
+    width: 150px;
+
+
+}
+#boxupl{
+    position:sticky;
+    top:0px;
+
+}
+#boxupr{
+position:relative;
+left:1360px;
+bottom: 20px;
+
+}
+#boxdnl{
+position:relative;
+top:1000px;
+}
+#boxdnr{
+    position:relative;
+    top:980px;
+    left:1340px;
+
+
+}
+#boxcen{
+
+    position:relative;
+    top:400px;
+    left:750px;
+
+}
+.bigBox{
+    background-color: blue;
+    height:2000px
+}
+
