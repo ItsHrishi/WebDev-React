@@ -104,7 +104,7 @@ let dest = {};
 // dest = Object.assign({}, src);
 
 
-// spread
+// spread operator to copy 
 
 dest = { ...src };
 
