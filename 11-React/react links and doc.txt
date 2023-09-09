@@ -1,0 +1,3 @@
+link for clone starter pack :
+
+https://github.com/thepranaygupta/react-tailwind-css-starter-pack
