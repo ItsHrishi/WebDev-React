@@ -1,5 +1,9 @@
-const url = `https://api.giphy.com/v1/gifs/random?api_key=${API_KEY}`;
+import React from 'react'
 
-const useGif = (tag) => {};
+const useGif = () => {
+  return (
+    <div>useGif</div>
+  )
+}
 
-export default useGif;
+export default useGif

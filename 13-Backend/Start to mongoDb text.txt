@@ -1,0 +1,39 @@
+Start the mongo backend project steps:
+
+1. Open terminal and go the appropiate folder to work in :
+
+2. run : "npm init -y" [we can run the command without the '-y']
+
+3. then run : "npm i express" [i stands for express]
+
+4. create "index.js" and add the necessary code inside the index.js
+
+5. install codemon [codemon helps the server to start whenever the changes are made to save and start immediately without extra effort]
+
+6. edit the sripts inside package.json with:
+
+7. inside index.js add the code : [to test the working]
+
+   const express = require("express");
+   const app = express();
+   app.listen(3000, () => {
+	console.log("app is running successfully ")
+	})
+
+8. create new folders
+   1. config :
+	inside config add the database file "database.js"
+   2. models
+   3. routes
+   4. controllers 
+
+9. add the new file .env and add the following details
+
+10. install mongoose run "npm i mongoose"
+
+11. inside database.js add the required data :
+
+12. to access the variable in side the .env we need to install "npm install dotenv"
+
+13. for further details follow the example 2 folder:
+
