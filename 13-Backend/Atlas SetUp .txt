@@ -1,0 +1,6 @@
+Atlas SetUp :
+
+id : ghrishikesh77
+pass : e5XUZHVwt9yYsaQo
+
+mongodb+srv://ghrishikesh77:<password>@cluster0.iiygjww.mongodb.net/
